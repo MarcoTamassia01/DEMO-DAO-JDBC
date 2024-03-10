@@ -24,7 +24,7 @@ public class Program {
 	Seller seller = sellerDao.findById(3);
 	System.out.println(seller);
 	
-	System.out.println("\n==== TESTE 1 : Seller findbyDepartment: ======");
+	System.out.println("\n==== TESTE 2 : Seller findbyDepartment: ======");
 	Department department =  new Department(2,null);
 	List<Seller> list = sellerDao.findByDepartment(department);
 	list.forEach(System.out::println);

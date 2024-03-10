@@ -10,8 +10,8 @@ Este projeto em Java utiliza JDBC e a arquitetura DAO para acessar um banco de d
 
 ## Tratamento de Exceções
 
-  *Implementação de tratamento de exceções em todo o projeto.
-  *Criação de exceções personalizadas para situações específicas do projeto.
+  * Implementação de tratamento de exceções em todo o projeto.
+  * Criação de exceções personalizadas para situações específicas do projeto.
 
 ## Estrutura do Projeto
 
